@@ -1,0 +1,5 @@
+# 15. Max in List
+
+nums = [10, 50, 20, 5]
+
+print(max(nums))
